@@ -5,8 +5,8 @@ import 'package:quick_task_app/models/task.dart';
 
 class BackendService {
   static const String baseURL = 'https://parseapi.back4app.com';
-  static const String appID = 'rp3o7KiUvZsc2PMVIJAyB0Mf7cHZhwv3nuxg3fXr';
-  static const String apiKey = 'LzEGRx7xzLfHDFNjbcbV1ceOokMfn1n3X8joXxxw';
+  static const String appID = 'rp3o7KiUvZsc2PMVIJAyB0Mf7cHZhwv3nu*****';
+  static const String apiKey = 'LzEGRx7xzLfHDFNjbcbV1ceOokMfn1n3X8*****';
   static final _storage = FlutterSecureStorage();
 
   // Authentication
